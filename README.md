@@ -1,1 +1,0 @@
-# maximum-between-two-integers
